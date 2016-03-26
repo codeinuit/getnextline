@@ -1,6 +1,4 @@
 # GetNextLine
-
-###{Epitech.}
 ####Tek 1 project for CPE
 
 -> get_next_line.h needs to be included
